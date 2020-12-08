@@ -1,0 +1,6 @@
+<div data-options="dxView : { name: 'Index', title: 'Home' } ">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div id="map" data-bind="dxMap: mapOptions">
+        </div>
+    </div>
+</div>
